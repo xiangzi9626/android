@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">My Application</string>
+    <string name="fa_user">&#xf2c0;</string>
+    <string name="fa_comment">&#xf0e5;</string>
+    <string name="fa_drivers_license">&#xf2c3;</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_group">&#xf0c0;</string>
+</resources>
